@@ -1,2 +1,2 @@
-# Exploratory Data Anakysis
+# Exploratory Data Analysis
  Repo with all EDA Projects
